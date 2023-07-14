@@ -1,4 +1,4 @@
-# <center>Hi there I'm HyonHyon 👋</center>  
+<h1 align="center" dir="auto">Hi! I'm HyonHyon 👋</h1>  
 
 <!--
 **HyonHyonKOR/HyonHyonKOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
