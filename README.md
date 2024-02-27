@@ -1,6 +1,15 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&size=70&duration=3000&color=FE428E&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=810&height=200&lines=Hello%2CWorld!+;I'm+Hyeokmo" alt="Typing SVG" /></a>
 </div>
+<div align="center">
+  <p>私は、好奇心豊でチャレンジ精神のある人です。<br>
+  バックエンドもフロントエンドもできるWEBエンジニアを目指しています。<br>
+  日本企業への就職を目指しています！
+  </p>
+  <a href="mailto:﻿"khm3626@gmail.com">
+    <img src="https://img.shields.io/badge/Contact Me in 3 seconds!-EA4335?style=for-the-badge&logo=Gmail&logoColor=orange"/>
+  </a>
+</div>  
 <h2 align="center" dir="auto">My Porfolio⚡</h2>
 <div align="center">
   <a href="https://zenn.dev/eldorado215/articles/7d73cc24b656ec" style="text-decoration: none;">
@@ -17,6 +26,10 @@
   <img src="https://img.shields.io/badge/Portfolio Review-3EA8FF?style=for-the-badge&logo=Zenn&logoColor=white"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1vFpm3TK00l0waAvyiHfqa7ZDZ3zkNslgRtaVEF32sIs/edit#gid=574516391" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Project会議録-34A853?style=for-the-badge&logo=Google Sheets&logoColor=white"/>
+  </a>
 <h2 align="center" dir="auto">Language & Tools💻</h2>
 <div align="center">
   <div align="center">
