@@ -4,7 +4,6 @@
 <div align="center">
   <p>私は、好奇心豊でチャレンジ精神のある人です。<br>
   バックエンドもフロントエンドもできるWEBエンジニアを目指しています。<br>
-  日本企業への就職を目指しています！
   </p>
   <a href="mailto:﻿"khm3626@gmail.com">
     <img src="https://img.shields.io/badge/Contact Me in 3 seconds!-EA4335?style=for-the-badge&logo=Gmail&logoColor=orange"/>
