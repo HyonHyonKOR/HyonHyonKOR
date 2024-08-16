@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Contact Me in 3 seconds!-EA4335?style=for-the-badge&logo=Gmail&logoColor=orange"/>
   </a>
 </div>  
-<h2 align="center" dir="auto">My Porfolio⚡</h2>
+<!-- <h2 align="center" dir="auto">My Porfolio⚡</h2>
 <div align="center">
   <a href="http://ec2-18-183-150-69.ap-northeast-1.compute.amazonaws.com:8082/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Portfolio Web Site-232F3E?style=for-the-badge&logo=AmazonAws&logoColor=orange"/>
@@ -28,7 +28,7 @@
 <div align="center">
   <a href="https://docs.google.com/spreadsheets/d/1vFpm3TK00l0waAvyiHfqa7ZDZ3zkNslgRtaVEF32sIs/edit#gid=574516391" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Project会議録-34A853?style=for-the-badge&logo=Google Sheets&logoColor=white"/>
-  </a>
+  </a> -->
 <h2 align="center" dir="auto">Language & Tools💻</h2>
 <div align="center">
   <div align="center">
@@ -36,6 +36,7 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
    <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   </div>
   <div align="center">
@@ -49,8 +50,13 @@
    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white"/>
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  </div>  
   <div align="center">
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIdea&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIde&logoColor=white"/>
