@@ -33,7 +33,7 @@
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AngularJs-D6002F?style=for-the-badge&logo=Angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
