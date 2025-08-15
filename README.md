@@ -3,8 +3,7 @@
 </div>
 <div align="center">
   <p>私は、好奇心豊でチャレンジ精神のある人です。<br>
-  良いサービスを作れるWEBエンジニアを目指していますので、<br>
-  広くて、浅いかもしれませんが、色々を勉強しました！<br>
+  良いサービスを作れるWEBエンジニアを目指しています<br>
   </p>
   <a href="mailto:﻿"khm3626@gmail.com">
     <img src="https://img.shields.io/badge/Contact Me in 3 seconds!-EA4335?style=for-the-badge&logo=Gmail&logoColor=orange"/>
